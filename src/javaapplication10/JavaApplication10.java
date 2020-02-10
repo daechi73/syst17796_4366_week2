@@ -36,7 +36,7 @@ public class JavaApplication10 {
 //        s[2] = "Gene";
 //        s[3] = "Hanna";
 //        s[4] = "Mamoun";  
-//        
+//        s[5] = "hello";
 //        for (int i = 0; i < s.length; i++){
 //            System.out.println(s[i]);
 //        }
